@@ -4,4 +4,6 @@
 .Ruserdata
 
 *.pptx
+*.xlsx
+*.pdf
 *.jpeg
